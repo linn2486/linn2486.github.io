@@ -170,5 +170,14 @@ footer{
     #photo_menu:checked ~ .navbar_menu{
         display: flex;
     }
+    .about_text2{
+    margin-right: 50px;
+    }
+    .photo{
+        margin: 0px;
+    }
+    .skills_text2{
+        margin-right: 50px;
+    }
 }
 
