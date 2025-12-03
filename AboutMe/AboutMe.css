@@ -89,6 +89,14 @@ html{
     font-size: 28px;
     font-weight: bold;
 }
+.portfolio_text2>a{
+    text-decoration: none;
+    color: #000;
+    border: 1px #000 solid;
+    padding: 20px 20px;
+    border-radius: 20px;
+    margin-left: 50px;
+}
 .contact{
     display: flex;
 
@@ -162,6 +170,5 @@ footer{
     #photo_menu:checked ~ .navbar_menu{
         display: flex;
     }
-
 }
 
